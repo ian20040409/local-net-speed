@@ -1,0 +1,74 @@
+/* App Name */
+"local_net_speed" = "網路速度測試";
+
+/* Mode Selection */
+"select_mode" = "選擇模式";
+"app.mode.server" = "伺服器端";
+"app.mode.client" = "客戶端";
+
+/* Server Mode */
+"server_mode" = "伺服器模式";
+"server_running" = "伺服器正在運行";
+"server_address" = "伺服器地址";
+"server_description" = "啟動伺服器等待客戶端連線，並測量接收速度";
+"start_server" = "啟動伺服器";
+"stop_server" = "停止伺服器";
+"receiving_data" = "正在接收資料...";
+
+/* Client Mode */
+"client_mode" = "客戶端模式";
+"server_ip" = "伺服器 IP 位址";
+"enter_server_ip" = "輸入伺服器 IP";
+"discovered_servers" = "發現的伺服器";
+"connected" = "已連線";
+"sending_data" = "正在發送資料...";
+"connect_and_test" = "連線並測試";
+"disconnect" = "中斷連線";
+
+/* Results */
+"test_results" = "測試結果";
+"data_transferred" = "資料傳輸量";
+"duration" = "耗時";
+"average_speed" = "平均速度";
+"current_speed" = "目前速度";
+
+/* Performance Ratings */
+"gigabit_evaluation" = "Gigabit 乙太網路效能評估";
+"theoretical_speed_percentage" = "達到理論速度的";
+"improvement_suggestions" = "效能改善建議";
+
+"performance.excellent" = "優秀";
+"performance.good" = "良好";
+"performance.average" = "一般";
+"performance.slow" = "偏慢";
+"performance.very_slow" = "很慢";
+
+"performance.excellent.message" = "恭喜！您的網路已達到 Gigabit 等級效能";
+"performance.good.message" = "接近 Gigabit 效能，但仍有提升空間";
+"performance.average.message" = "網路速度一般，建議檢查網路設備或連線品質";
+"performance.slow.message" = "網路速度偏慢，可能未使用 Gigabit 設備";
+"performance.very_slow.message" = "網路速度很慢，建議檢查網路連線問題";
+
+/* Suggestions */
+"suggestion.cable" = "確認使用 Cat5e 或更高等級的網路線";
+"suggestion.switch" = "檢查網路交換器是否支援 Gigabit";
+"suggestion.nic" = "確認網路卡設定為 1000 Mbps 全雙工";
+"suggestion.programs" = "關閉不必要的網路程式和服務";
+"suggestion.interference" = "檢查是否有網路瓶頸或干擾";
+
+/* Settings */
+"settings" = "設定";
+"network_settings" = "網路設定";
+"port" = "連接埠";
+"data_size_mb" = "資料大小 (MB)";
+"chunk_size_mb" = "區塊大小 (MB)";
+"reset_to_defaults" = "重設為預設值";
+"cancel" = "取消";
+"done" = "完成";
+
+/* General */
+"error" = "錯誤";
+"copy" = "複製";
+"share" = "分享";
+"export" = "匯出";
+"ok" = "確定";
